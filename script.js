@@ -12,7 +12,6 @@ convertButton.addEventListener('click',function(event)
     const sarbiaChecked = document.getElementById('Sarbia').checked;
     const turkeyChecked = document.getElementById('Turkey').checked;
     const southAfricaChecked = document.getElementById('South-Africa').checked;
-    const southKoreaChecked = document.getElementById('South-Korea').checked;
     const brazilChecked = document.getElementById('Brazil').checked;
 
     if(indiaChecked==true && convertTk>0)
